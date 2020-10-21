@@ -11,6 +11,10 @@ header {
   max-width: 100px;
 }
 
+.intro {
+  font-size: 3rem;
+}
+
 footer {
   background: #000;
 }
